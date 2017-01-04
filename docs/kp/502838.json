@@ -14,7 +14,7 @@
       "service": "hdrezka"
     },
     {
-      "url": "https://ovva.tv/ua/sherlok-bbc/",
+      "url": "https://api.ovva.tv/home/ua/playlist/10199",
       "service": "ovva"
     },
     {
